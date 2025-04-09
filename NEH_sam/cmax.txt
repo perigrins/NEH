@@ -1,0 +1,486 @@
+data.000:
+cmax:	32
+czas:	2 ms (2.7e-06 s)
+
+data.001:
+cmax:	1286
+czas:	141 ms (0.0001419 s)
+
+data.002:
+cmax:	1365
+czas:	132 ms (0.0001326 s)
+
+data.003:
+cmax:	1159
+czas:	131 ms (0.0001314 s)
+
+data.004:
+cmax:	1325
+czas:	135 ms (0.0001353 s)
+
+data.005:
+cmax:	1305
+czas:	148 ms (0.0001489 s)
+
+data.006:
+cmax:	1228
+czas:	149 ms (0.0001498 s)
+
+data.007:
+cmax:	1278
+czas:	94 ms (9.43e-05 s)
+
+data.008:
+cmax:	1223
+czas:	136 ms (0.0001365 s)
+
+data.009:
+cmax:	1291
+czas:	102 ms (0.0001029 s)
+
+data.010:
+cmax:	1151
+czas:	149 ms (0.000149 s)
+
+data.011:
+cmax:	1680
+czas:	242 ms (0.0002424 s)
+
+data.012:
+cmax:	1729
+czas:	235 ms (0.0002357 s)
+
+data.013:
+cmax:	1557
+czas:	312 ms (0.0003126 s)
+
+data.014:
+cmax:	1439
+czas:	313 ms (0.0003139 s)
+
+data.015:
+cmax:	1502
+czas:	288 ms (0.0002888 s)
+
+data.016:
+cmax:	1453
+czas:	247 ms (0.0002474 s)
+
+data.017:
+cmax:	1562
+czas:	337 ms (0.0003376 s)
+
+data.018:
+cmax:	1609
+czas:	240 ms (0.0002407 s)
+
+data.019:
+cmax:	1647
+czas:	241 ms (0.0002419 s)
+
+data.020:
+cmax:	1653
+czas:	242 ms (0.0002427 s)
+
+data.021:
+cmax:	2410
+czas:	464 ms (0.0004642 s)
+
+data.022:
+cmax:	2150
+czas:	548 ms (0.0005489 s)
+
+data.023:
+cmax:	2411
+czas:	703 ms (0.0007032 s)
+
+data.024:
+cmax:	2262
+czas:	594 ms (0.0005947 s)
+
+data.025:
+cmax:	2397
+czas:	471 ms (0.0004719 s)
+
+data.026:
+cmax:	2349
+czas:	623 ms (0.0006239 s)
+
+data.027:
+cmax:	2362
+czas:	644 ms (0.000644 s)
+
+data.028:
+cmax:	2249
+czas:	634 ms (0.0006343 s)
+
+data.029:
+cmax:	2320
+czas:	722 ms (0.0007221 s)
+
+data.030:
+cmax:	2277
+czas:	480 ms (0.0004809 s)
+
+data.031:
+cmax:	2733
+czas:	1362 ms (0.0013625 s)
+
+data.032:
+cmax:	2843
+czas:	1277 ms (0.0012771 s)
+
+data.033:
+cmax:	2640
+czas:	1332 ms (0.0013321 s)
+
+data.034:
+cmax:	2782
+czas:	1395 ms (0.0013953 s)
+
+data.035:
+cmax:	2868
+czas:	1448 ms (0.0014489 s)
+
+data.036:
+cmax:	2850
+czas:	1336 ms (0.0013366 s)
+
+data.037:
+cmax:	2758
+czas:	1450 ms (0.0014503 s)
+
+data.038:
+cmax:	2721
+czas:	1225 ms (0.0012259 s)
+
+data.039:
+cmax:	2576
+czas:	1300 ms (0.0013008 s)
+
+data.040:
+cmax:	2790
+czas:	1258 ms (0.0012582 s)
+
+data.041:
+cmax:	3135
+czas:	3152 ms (0.0031521 s)
+
+data.042:
+cmax:	3032
+czas:	3707 ms (0.0037072 s)
+
+data.043:
+cmax:	2986
+czas:	3505 ms (0.0035058 s)
+
+data.044:
+cmax:	3198
+czas:	3634 ms (0.0036341 s)
+
+data.045:
+cmax:	3160
+czas:	3494 ms (0.0034944 s)
+
+data.046:
+cmax:	3178
+czas:	3551 ms (0.0035519 s)
+
+data.047:
+cmax:	3277
+czas:	5139 ms (0.0051398 s)
+
+data.048:
+cmax:	3123
+czas:	3589 ms (0.0035896 s)
+
+data.049:
+cmax:	3002
+czas:	3835 ms (0.0038355 s)
+
+data.050:
+cmax:	3257
+czas:	5193 ms (0.0051939 s)
+
+data.051:
+cmax:	4082
+czas:	6889 ms (0.0068891 s)
+
+data.052:
+cmax:	3921
+czas:	6486 ms (0.0064869 s)
+
+data.053:
+cmax:	3927
+czas:	7107 ms (0.0071076 s)
+
+data.054:
+cmax:	3969
+czas:	6915 ms (0.0069152 s)
+
+data.055:
+cmax:	3835
+czas:	10384 ms (0.0103848 s)
+
+data.056:
+cmax:	3914
+czas:	7878 ms (0.0078787 s)
+
+data.057:
+cmax:	3952
+czas:	7166 ms (0.0071663 s)
+
+data.058:
+cmax:	3938
+czas:	6785 ms (0.0067856 s)
+
+data.059:
+cmax:	3952
+czas:	6606 ms (0.0066067 s)
+
+data.060:
+cmax:	4079
+czas:	7294 ms (0.0072946 s)
+
+data.061:
+cmax:	5519
+czas:	9685 ms (0.0096852 s)
+
+data.062:
+cmax:	5348
+czas:	8763 ms (0.0087635 s)
+
+data.063:
+cmax:	5219
+czas:	9349 ms (0.0093494 s)
+
+data.064:
+cmax:	5023
+czas:	9761 ms (0.0097619 s)
+
+data.065:
+cmax:	5266
+czas:	13033 ms (0.0130335 s)
+
+data.066:
+cmax:	5139
+czas:	13620 ms (0.0136202 s)
+
+data.067:
+cmax:	5259
+czas:	11246 ms (0.0112462 s)
+
+data.068:
+cmax:	5120
+czas:	9046 ms (0.0090464 s)
+
+data.069:
+cmax:	5489
+czas:	8950 ms (0.0089502 s)
+
+data.070:
+cmax:	5341
+czas:	9544 ms (0.0095446 s)
+
+data.071:
+cmax:	5846
+czas:	26354 ms (0.0263547 s)
+
+data.072:
+cmax:	5453
+czas:	23889 ms (0.0238896 s)
+
+data.073:
+cmax:	5824
+czas:	27074 ms (0.0270748 s)
+
+data.074:
+cmax:	5929
+czas:	24257 ms (0.0242579 s)
+
+data.075:
+cmax:	5679
+czas:	25987 ms (0.025987 s)
+
+data.076:
+cmax:	5375
+czas:	25642 ms (0.025642 s)
+
+data.077:
+cmax:	5704
+czas:	25194 ms (0.0251948 s)
+
+data.078:
+cmax:	5760
+czas:	28715 ms (0.0287157 s)
+
+data.079:
+cmax:	6032
+czas:	25718 ms (0.0257182 s)
+
+data.080:
+cmax:	5918
+czas:	33148 ms (0.0331481 s)
+
+data.081:
+cmax:	6541
+czas:	54736 ms (0.0547363 s)
+
+data.082:
+cmax:	6523
+czas:	62257 ms (0.0622575 s)
+
+data.083:
+cmax:	6639
+czas:	64371 ms (0.0643716 s)
+
+data.084:
+cmax:	6557
+czas:	51509 ms (0.0515094 s)
+
+data.085:
+cmax:	6695
+czas:	54974 ms (0.0549749 s)
+
+data.086:
+cmax:	6664
+czas:	51174 ms (0.0511746 s)
+
+data.087:
+cmax:	6632
+czas:	51595 ms (0.0515952 s)
+
+data.088:
+cmax:	6739
+czas:	54237 ms (0.054237 s)
+
+data.089:
+cmax:	6677
+czas:	56964 ms (0.0569645 s)
+
+data.090:
+cmax:	6677
+czas:	68868 ms (0.0688689 s)
+
+data.091:
+cmax:	10942
+czas:	276230 ms (0.276231 s)
+
+data.092:
+cmax:	10716
+czas:	232078 ms (0.232078 s)
+
+data.093:
+cmax:	11025
+czas:	239960 ms (0.239961 s)
+
+data.094:
+cmax:	11057
+czas:	228511 ms (0.228512 s)
+
+data.095:
+cmax:	10645
+czas:	216485 ms (0.216486 s)
+
+data.096:
+cmax:	10458
+czas:	206423 ms (0.206423 s)
+
+data.097:
+cmax:	10989
+czas:	201284 ms (0.201285 s)
+
+data.098:
+cmax:	10829
+czas:	200049 ms (0.20005 s)
+
+data.099:
+cmax:	10574
+czas:	200291 ms (0.200291 s)
+
+data.100:
+cmax:	10807
+czas:	206534 ms (0.206534 s)
+
+data.101:
+cmax:	11594
+czas:	403851 ms (0.403851 s)
+
+data.102:
+cmax:	11675
+czas:	394714 ms (0.394715 s)
+
+data.103:
+cmax:	11852
+czas:	403711 ms (0.403711 s)
+
+data.104:
+cmax:	11803
+czas:	414007 ms (0.414008 s)
+
+data.105:
+cmax:	11685
+czas:	446829 ms (0.446829 s)
+
+data.106:
+cmax:	11629
+czas:	470418 ms (0.470418 s)
+
+data.107:
+cmax:	11833
+czas:	672252 ms (0.672253 s)
+
+data.108:
+cmax:	11913
+czas:	737499 ms (0.737499 s)
+
+data.109:
+cmax:	11673
+czas:	572492 ms (0.572493 s)
+
+data.110:
+cmax:	11869
+czas:	590120 ms (0.59012 s)
+
+data.111:
+cmax:	26670
+czas:	8627799 ms (8.6278 s)
+
+data.112:
+cmax:	27232
+czas:	8724753 ms (8.72475 s)
+
+data.113:
+cmax:	26848
+czas:	8311889 ms (8.31189 s)
+
+data.114:
+cmax:	27055
+czas:	8678731 ms (8.67873 s)
+
+data.115:
+cmax:	26727
+czas:	8558676 ms (8.55868 s)
+
+data.116:
+cmax:	26992
+czas:	8917963 ms (8.91796 s)
+
+data.117:
+cmax:	26797
+czas:	11382363 ms (11.3824 s)
+
+data.118:
+cmax:	27138
+czas:	11460874 ms (11.4609 s)
+
+data.119:
+cmax:	26631
+czas:	10805695 ms (10.8057 s)
+
+data.120:
+cmax:	26984
+czas:	13462690 ms (13.4627 s)
+
+
+total time: 109051033 ms (109.051 s)
